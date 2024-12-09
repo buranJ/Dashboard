@@ -1,6 +1,4 @@
-# [Material Dashboard 2](http://demos.creative-tim.com/material-dashboard/pages/dashboard.html?ref=readme-md2) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/material-dashboard&text=Check%20Material%20Dashboard%202%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#materialdesign%20#html%20https://www.creative-tim.com/product/material-dashboard) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/FhCJCaHdQa)
 
-![version](https://img.shields.io/badge/version-3.0.5-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-dashboard.svg)](https://github.com/creativetimofficial/material-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/material-dashboard.svg)](https://github.com/creativetimofficial/material-dashboard/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/50/original/material-dashboard.jpg?1634648873)
 
@@ -12,12 +10,6 @@ This product came as a result of users asking for a material dashboard after we 
 
 Material Dashboard comes with 5 color filter choices for both the sidebar and the card headers (blue, green, orange, red and purple) and an option to have a background image on the sidebar.
 
-Special thanks go to:
-- [Robert McIntosh](https://github.com/mouse0270/bootstrap-notify) for the notification system.
-- [Chartist](https://gionkunz.github.io/chartist-js/) for the wonderful charts.
-- [Nepcha Analytics](https://nepcha.com?ref=readme-md2) for the analytics tool. Nepcha is already integrated with Material Dashboard 2. You can use it to gain insights into your sources of traffic.
-
-We are very excited to share this dashboard with you and we look forward to hearing your feedback!
 
 
 ## Table of Contents
@@ -67,14 +59,6 @@ We are very excited to share this dashboard with you and we look forward to hear
 - [Notifications page](https://demos.creative-tim.com/material-dashboard/examples/notifications.html)
 
 [View More](https://demos.creative-tim.com/material-dashboard/examples/dashboard.html).
-
-
-## Quick start
-
-- `npm i material-dashboard`
-- Clone the repo: `git clone https://github.com/creativetimofficial/material-dashboard.git`.
-- [Download from Github](https://github.com/creativetimofficial/material-dashboard/archive/master.zip).
-- [Download from Creative Tim](https://www.creative-tim.com/product/material-dashboard).
 
 
 ## Documentation
@@ -127,51 +111,4 @@ At present, we officially aim to support the last two versions of the following 
 - [Material Kit](https://www.creative-tim.com/product/material-kit?ref=github-md) - For Front End Development
 - [Nepcha Analytics](https://nepcha.com?ref=readme-md2) - Analytics tool for your website
 
-## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Material Dashboard. Here are some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of the Material Dashboard. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
-
-## Upgrade to Premium version
-
-Are you looking for more components? Please check our Premium Version of Material Dashboard [here](https://www.creative-tim.com/product/material-dashboard-pro/)
-
-## Technical Support or Questions
-
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us) instead of opening an issue.
-
-
-
-## Licensing
-
-- Copyright 2023 Creative Tim (https://www.creative-tim.com/)
-
-- Licensed under MIT (https://github.com/creativetimofficial/material-dashboard/blob/master/LICENSE.md)
-
-
-
-## Useful Links
-
-- [More products](https://www.creative-tim.com/templates?ref=readme-md2) from Creative Tim
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-md2) from Creative Tim
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-md2) (earn money)
-- [Bundles](https://www.creative-tim.com/bundles?ref=readme-md2)
-- [Material Design](https://www.creative-tim.com/design-system/material?ref=readme-md2)
-- [Get Discount](https://www.creative-tim.com/coupon?ref=readme-md2)
-
-## Social Media
-
-
-Twitter: <https://twitter.com/CreativeTim>
-
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-TikTok: <https://tiktok.com/@creative.tim>
-
-Instagram: <https://instagram.com/creativetimofficial>
